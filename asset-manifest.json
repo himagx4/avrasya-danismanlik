@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avrasya-danismanlik/static/css/main.6c467892.css",
+    "main.js": "/avrasya-danismanlik/static/js/main.68d9d3e7.js",
+    "static/js/453.0e232223.chunk.js": "/avrasya-danismanlik/static/js/453.0e232223.chunk.js",
+    "index.html": "/avrasya-danismanlik/index.html",
+    "main.6c467892.css.map": "/avrasya-danismanlik/static/css/main.6c467892.css.map",
+    "main.68d9d3e7.js.map": "/avrasya-danismanlik/static/js/main.68d9d3e7.js.map",
+    "453.0e232223.chunk.js.map": "/avrasya-danismanlik/static/js/453.0e232223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c467892.css",
+    "static/js/main.68d9d3e7.js"
+  ]
+}
